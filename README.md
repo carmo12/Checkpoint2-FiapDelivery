@@ -123,7 +123,7 @@ O diagrama exportado do Astah também faz parte deste repositório (arquivo PNG)
 
 - Java
 - Eclipse IDE
-- Astah (modelagem UML)
+- Astah 
 - Git e GitHub
 
 ## Autor
